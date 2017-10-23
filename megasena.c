@@ -19,7 +19,7 @@ para (i = 0 ; i < 6 ; i ++) {
 
 para (i = 0 ; i < 6 ; i ++) {
 
-   printf ( " % d \ t % d \ n " , x [i], n [i]);
+   printf ( "%d\t%d\n" , x [i], n [i]);
    }
 
 para (i = 0 ; i < 6 ; i ++) {
